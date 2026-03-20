@@ -1,8 +1,9 @@
-# 🐔 Chicken Fecal Redness Detector
+DOI: 10.5281/zenodo.19134640
+# Chicken Fecal Redness Detector
 
 A simple mobile-friendly web app to analyze redness in chicken fecal sample images as a screening indicator for possible coccidiosis.
 
-## 🚀 Features
+## Features
 
 * Upload or capture fecal images
 * Detect red regions (possible blood)
@@ -10,24 +11,24 @@ A simple mobile-friendly web app to analyze redness in chicken fecal sample imag
 * Simple interpretation (low / moderate / high risk)
 * Works on phone and desktop
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is NOT a diagnostic tool.
 Always confirm with veterinary testing.
 
-## ▶️ Run locally
+## Run locally
 
 ```
 npm install
 npm run dev
 ```
 
-## 📱 Run on phone
+## Run on phone
 
 ```
 npm run dev -- --host
 ```
 
-## 👨‍🔬 Author
+## Author
 
 Susanta Behura
